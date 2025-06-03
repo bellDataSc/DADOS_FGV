@@ -1,0 +1,15 @@
+
+RESUMO EXECUTIVO - ANÁLISE CAGED CBO 212415
+
+1. PARTE 1 (R) PRIMEIRO NOTEBOOK: Calculou-se o valor médio salarial mensal para CBO 212415
+   onde salários >= R$ 1.412,00 (salário mínimo 2024)
+
+2. PARTE 2 (R) SEGUNDO NOTEBOOK: Identificou-se a maior variação percentual mensal
+   Resultado: Competência 202404 com variação de 5.23%
+
+3. PARTE 3 (Python) TERCEIRO NOTEBOOK: Contou-se os registros no mês de maior variação
+   Resultado: 473 registros para CBO 212415 em 202404
+
+CONCLUSÃO: A análise temporal dos salários de Analistas de Sistemas de Automação
+revelou padrões de variação salarial significativos, com destaque para o mês
+04/2024.
