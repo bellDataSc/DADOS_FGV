@@ -1,5 +1,8 @@
 # Análise de Mercado de Trabalho (CAGED 2023) - CASE FGV
 
+- link de acesso ao PAINEL WEB. Criado para facilitar a leitura dos dados para alem dos notebooks criados com R e Python.
+- https://belldatasc.github.io/PAINEL-DADOS-FGV/
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
 ![R](https://img.shields.io/badge/Also%20uses-R-blueviolet)
