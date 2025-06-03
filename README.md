@@ -1,4 +1,4 @@
-# Análise de Mercado de Trabalho (CAGED 2023)
+# Análise de Mercado de Trabalho (CAGED 2023) - CASE FGV
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
