@@ -43,6 +43,6 @@ Este repositório foi criado como **base de estudo e pesquisa** sobre as movimen
 .
 ├── 📁 notebooks_r         # Parte 1 e 2 – análise em R
 ├── 📁 notebook_python     # Parte 3 – análise em Python
-├── 📁 app_visualizacao    # App interativo (R Shiny, Streamlit etc.)
-├── 📁 dados               # Arquivo base (CAGED 2023 – DADOS.xlsx)
+├── 📁 app_visualizacao    # App interativo (html, css, javascript.)
+├── 📁 dados               # Arquivo base (DADOS.xlsx obitidos pelo envio do case da FGV)
 └── README.md              # Descrição do projeto
